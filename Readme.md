@@ -15,6 +15,7 @@ Bill Of Materials
 [10K Ohm Resistor](https://www.sparkfun.com/products/8374)|1
 [RGB Led Common Anode](https://www.sparkfun.com/products/10820)|1
 [330 Ohm Resistor](https://www.sparkfun.com/products/8377)|3
+[Wall Adapter Power Supply - 12VDC 600mA](https://www.sparkfun.com/products/9442)|1
 
 
 circuito.io
